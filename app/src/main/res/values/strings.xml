@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PopularNews</string>
+    <string name="img">img</string>
+    <string name="desk">Desk</string>
+    <string name="date">yyyy-MM-dd\'T\'HH:mm:ss\'Z\'</string>
+</resources>
